@@ -3,7 +3,7 @@ package repositories
 import (
 	"context"
 
-	"github.com/mathvaillant/ticket-booking-project-v0/models"
+	"github.com/khoahotran/ticket-booking-project-v0/models"
 	"gorm.io/gorm"
 )
 
